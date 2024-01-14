@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  
 <p>
   <h1 align="center"><b>Hello there, I'm Mukesh 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"There is always one more bug to fix."</b></h4>
 </p>
 
 
@@ -25,7 +25,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Full Stack Devloper
 
 - 🔭 I’m currently working on Web Technologies, Machine Learning, Data Analytics & AI
 - 🌱 I’m currently learning Devops
@@ -34,7 +34,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/mukesh-vishwas-525788252]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -110,7 +110,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR [#363](https://github.com/s-nashit/basic-python) in [https://github.com/s-nashit/basic-python](https://github.com/s-nashit/basic-python)
 2. 💪 Opened PR [#423](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/423) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 3. ❗️ Opened issue [#172](https://github.com/EddieJaoudeCommunity/support/issues/172) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
