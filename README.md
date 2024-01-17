@@ -40,7 +40,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mukesh07-ai](https://github.com/mukesh07-ai)
 - 📫 How to reach me **mk5297523@gmail.com**
 - 📄 Know about my experiences [https://mukesh07-ai.github.io/MY-CV/index.html](https://mukesh07-ai.github.io/MY-CV/index.html)
-- ⚡ Fun fact **Why did the programmer quit his job? Because he didn’t get arrays. 😂**
+
 
   <br>
 
@@ -65,7 +65,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh07-ai&show_icons=true&locale=en" alt="mukesh07-ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh07-ai&" alt="mukesh07-ai" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh07-ai&" alt="mukesh07-ai" /></p>
 
 
 #### Thank You-🙏🏼
