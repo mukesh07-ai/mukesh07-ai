@@ -28,27 +28,23 @@
 
 - 🔭 I’m currently working on Web Technologies, Machine Learning, Data Analytics & AI
 - 🌱 I’m currently learning Devops
-- - 🌱 I’m currently learning **Mean Stack**
+- 🌱 I’m currently learning **Mean Stack**
 - 👯 I’m looking to collaborate on MEAN projects
-- 🔭 I’m currently working on my Portfolio Website :grin:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-- 🔭 I’m currently working on [Codedarshan](https://mukesh07-ai.github.io/codedarshan_main/)
 - 👨‍💻 All of my projects are available at [https://github.com/mukesh07-ai](https://github.com/mukesh07-ai)
 - 📫 How to reach me **mk5297523@gmail.com**
-- 📄 Know about my experiences [https://mukesh07-ai.github.io/MY-CV/index.html](https://mukesh07-ai.github.io/MY-CV/index.html)
 
 
   <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukesh07-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh07-ai" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh07-ai" alt="mukesh07-ai" /></a> </p>
 
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mukeshvishwas07?t=hn_rctsd0ouze6jjrapjuq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukeshvishwas07?t=hn_rctsd0ouze6jjrapjuq&s=08" height="30" width="40" /></a>
