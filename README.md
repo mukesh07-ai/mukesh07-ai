@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="400px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Full Stack Devloper
 
@@ -34,7 +34,6 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 - 🔭 I’m currently working on [Codedarshan](https://mukesh07-ai.github.io/codedarshan_main/)
@@ -50,7 +49,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh07-ai" alt="mukesh07-ai" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mukeshvishwas07?t=hn_rctsd0ouze6jjrapjuq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukeshvishwas07?t=hn_rctsd0ouze6jjrapjuq&s=08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-vishwas-525788252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-vishwas-525788252" height="30" width="40" /></a>
