@@ -6,8 +6,7 @@
   <h1 align="center"><b>Hello there, I'm Mukesh 👋</b></h1>
 </p>
 
-<p>
-  <h4 align="center"><b>"There is always one more bug to fix."</b></h4>
+<p><h3 align="center">There is always one more bug to fix.</h3>
 </p>
 
 
@@ -29,6 +28,7 @@
 
 - 🔭 I’m currently working on Web Technologies, Machine Learning, Data Analytics & AI
 - 🌱 I’m currently learning Devops
+- - 🌱 I’m currently learning **Mean Stack**
 - 👯 I’m looking to collaborate on MEAN projects
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -38,18 +38,8 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
-<br>
-
-<h1 align="center">Hi 👋, I'm Mukesh vishwas</h1>
-<h3 align="center">There is always one more bug to fix.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh07-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh07-ai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh07-ai" alt="mukesh07-ai" /></a> </p>
 
 - 🔭 I’m currently working on [Codedarshan](https://mukesh07-ai.github.io/codedarshan_main/)
-
-- 🌱 I’m currently learning **Mean Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mukesh07-ai](https://github.com/mukesh07-ai)
 
@@ -60,6 +50,14 @@
 - 📄 Know about my experiences [https://mukesh07-ai.github.io/MY-CV/index.html](https://mukesh07-ai.github.io/MY-CV/index.html)
 
 - ⚡ Fun fact **Why did the programmer quit his job? Because he didn’t get arrays. 😂**
+
+  <br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh07-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh07-ai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh07-ai" alt="mukesh07-ai" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
