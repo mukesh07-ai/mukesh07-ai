@@ -19,7 +19,7 @@
 <a href="mailto:mk5297523@gmail.com?subject=Mukesh%20Vishwas"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://github.com/mukesh07-ai"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
-
+<img align="right" height="270px" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
