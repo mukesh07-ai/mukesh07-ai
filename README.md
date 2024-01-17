@@ -22,8 +22,6 @@
 <img align="centre" height="270px" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
-
 ### I am a Full Stack Devloper
 
 - 🔭 I’m currently working on Web Technologies, Machine Learning, Data Analytics & AI
