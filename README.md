@@ -20,7 +20,6 @@
 <a href="https://github.com/mukesh07-ai"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 <img align="centre" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
-<br>
 
 ### I am a Full Stack Devloper
 
