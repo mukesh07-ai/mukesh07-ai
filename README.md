@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="200px" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
+<img align="right" height="270px" alt="GIF" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" />
 
 ### I am a Full Stack Devloper
 
