@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="500px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Full Stack Devloper
 
@@ -37,22 +37,13 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-
-
 - 🔭 I’m currently working on [Codedarshan](https://mukesh07-ai.github.io/codedarshan_main/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mukesh07-ai](https://github.com/mukesh07-ai)
-
-- 💬 Ask me about **My name is Mukesh, I’ve been studying computer science for two years. In order to kick-start my career before I graduate, I am looking for a job of a web developer, since that’s what I’ve been doing already for four years in my free time. Designing websites for friends, developing simple e-shops with the help of some open source content-management systems, and so on. Besides that I am a normal guy who enjoys hiking and spending time with friends, while not working or studying, which takes most of my time of course. If I should pick the best website I’ve designed up to this point, it will be this one: [name of the website]. I am ambitious and hard-working and believe you’ll give me a chance to prove my words.**
-
 - 📫 How to reach me **mk5297523@gmail.com**
-
 - 📄 Know about my experiences [https://mukesh07-ai.github.io/MY-CV/index.html](https://mukesh07-ai.github.io/MY-CV/index.html)
-
 - ⚡ Fun fact **Why did the programmer quit his job? Because he didn’t get arrays. 😂**
 
   <br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh07-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh07-ai" /> </p>
 
