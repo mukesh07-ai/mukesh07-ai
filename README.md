@@ -13,11 +13,11 @@
  <p align="center"> <a href="https://x.com/mukeshvishwas07" target="blank"><img src="https://img.shields.io/twitter/follow/mukesh07?logo=twitter&style=for-the-badge" alt="mukesh07" /></a> </p>
 
  <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Kumar;Web+Developer;Blogger"/>
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mukesh+Vishwas;Web+Developer;Full Stack With Java"/>
 </div>
 
 <p align="center">
- Analyst at GeeksForGeeks | Frontend Developer
+ Intern at IBM | Full Stack With Java
 </p>   
 
 <p align="center">  
