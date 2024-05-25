@@ -1,7 +1,18 @@
-### Hi there 👋
+<div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Kumar;Web+Developer;Blogger"/>
+</div>
 
+<p align="center">
+ Analyst at GeeksForGeeks | Frontend Developer
+</p>   
 
-  
+<p align="center">  
+ <img src="https://komarev.com/ghpvc/?username=coder-harsh&color=green" alt="coderharsh" />
+ <img src="https://img.shields.io/github/followers/coder-harsh?label=followers&style=social"/>
+</p>
+ <p align="center"> <a href="https://twitter.com/iharsh_js" target="blank"><img src="https://img.shields.io/twitter/follow/iharsh_js?logo=twitter&style=for-the-badge" alt="coderharsh" /></a> </p>
+ 
+
 <p>
   <h1 align="center"><b>Hello there, I'm Mukesh 👋</b></h1>
 </p>
