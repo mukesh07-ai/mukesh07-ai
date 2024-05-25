@@ -12,19 +12,7 @@
 </p>
  <p align="center"> <a href="https://x.com/mukeshvishwas07" target="blank"><img src="https://img.shields.io/twitter/follow/mukesh07?logo=twitter&style=for-the-badge" alt="mukesh07" /></a> </p>
 
- <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Mukesh+Vishwas;Web+Developer;Full Stack With Java"/>
-</div>
 
-<p align="center">
- Intern at IBM | Full Stack With Java
-</p>   
-
-<p align="center">  
- <img src="https://komarev.com/ghpvc/?username=coder-harsh&color=green" alt="coderharsh" />
- <img src="https://img.shields.io/github/followers/coder-harsh?label=followers&style=social"/>
-</p>
- <p align="center"> <a href="https://twitter.com/iharsh_js" target="blank"><img src="https://img.shields.io/twitter/follow/iharsh_js?logo=twitter&style=for-the-badge" alt="coderharsh" /></a> </p>
  
 <p align="justify">Harsh Kumar is a Front-end Developer and an Analyst at GeeksForGeeks. I have strong technical skills in working with React JS and Javascript and I am an ECE undergraduate student of the 2019-23 batch from Govt. Purnea College Of Engineering is affiliated with Bihar Engineering University Patna. 
 
