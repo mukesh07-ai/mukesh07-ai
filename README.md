@@ -24,58 +24,17 @@ I have created several projects on web development. I secured 55th Position in A
 Please feel free to get in touch with me via [Email](mailto:mk5297523@gmail.com).</p>
 
 
-<!--
-### Languages and Tools 
-<table>
-<tr>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80">
-    </td>
-    <td align='center'>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="80">
-    </td>
-</tr>
-<tr>
-    <td>
-       <img src="https://user-images.githubusercontent.com/75694208/172817041-1df89dcf-8d12-4ec9-87b8-31630235fe61.png" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/75694208/172817899-88ada0a5-aca7-496f-996e-05a610a93367.png" width="80">
-    <td align='center'>
-        <img src="https://user-images.githubusercontent.com/75694208/172818360-a58681c2-2f26-4fd7-a2e8-1e223fd1540b.png" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
-    </td>
-    <td align='center'>
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    </td>
-</tr>
-</table>
--->
 
 <h3 align="center">My Projects</h3>
 
 
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
-| Meta Tag Generator | HTML, CSS, JS, Netlify | Generate essential meta tags for your website in seconds | [Link](https://meta-tag-generator.coderharsh.in/) |
-| AKU Exam Resources | Bootstrap 5, SCSS, JS, HTML5, CSS3, Netlify, Shareme api | Platform for finding AKU Patna University exam resources | [Link](https://akuexam.netlify.app/) |
-| Indian Developers | HTML5, CSS3, JS, BOOTSTRAP, NETLIFY | This website is built for getting orders from clients for building apps, websites, & other services | [Link](https://indiandevelopers.org/) |
-| Blood Plaza | HTML5, CSS3, JS, BOOTSTRAP, Azure QnA, Microsoft Azure | Blood Plaza is a platform for blood donors & patient who cares most about needed once's heartbeat | [Link](https://coder-harsh.github.io/blood-plaza/) |
-| Intellimixio | HTML5, CSS3, JS, BOOTSTRAP, Mailchimp | Intellimixio: The official Club at Purnea College Of Engineering | [Link](https://intellimixio.in/) |
+| Code darshan | HTML, CSS, Bootstrap5, jQuery, JavaScript | A web application to implement our IT consulting firm | [Link](https://mukesh07-ai.github.io/codedarshan_main/) |
+| Photo Canvas | Django, Render | Image Editing web application | [Link](https://photocanvas.onrender.com/) |
+| Carbon Calculator | NumPy, Pandas, Streamlit | An application to calculate your carbon footprint using Streamlit & hosted on Streamlit. | [Link](https://carbon-calculator-kmtsd4wnnu24vueghiyb5k.streamlit.app/) |
+| Sales Dashboard | Pandas, Pillow, Plotly, Streamlit | A descriptive & predictive analytics dashboard for Amazon, India using streamlit, pandas, Pillow & plotly. | [Link](https://appapp-c8jskv6yxt79uk44dr3dfj.streamlit.app/) |
+| Audio Classification | Streamlit, NumPy, Pandas, Librosa | A project built on streamlit, NumPy, pandas & librosa. | [Link](https://audioclassification-ai-skj2xrqfutnumsj5vxegcg.streamlit.app/) |
 
 
 
@@ -83,9 +42,9 @@ Please feel free to get in touch with me via [Email](mailto:mk5297523@gmail.com)
 
 <div>
 <p align="center">
-<a href="https://github.com/coder-harsh">
-<img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coder-harsh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coder-harsh&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/mukesh07-ai">
+<img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukesh07-ai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mukesh07-ai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> 
 </div> 
@@ -95,7 +54,7 @@ Please feel free to get in touch with me via [Email](mailto:mk5297523@gmail.com)
 
 <div>
 <p align ="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-harsh&theme=chartreuse-dark" alt="Harsh Kumar" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh07-ai&theme=chartreuse-dark" alt="Mukesh Vishwas" />
 </p>
 </div>
 
@@ -103,9 +62,9 @@ Please feel free to get in touch with me via [Email](mailto:mk5297523@gmail.com)
 <h3 align="center">Get in touch</h3>
 <p align="center">
 
-- Read my latest [Blog](https://coderharsh.in/)
-- Follow me on [Social Media](https://about.coderharsh.in/social/)
-- Download my latest [Resume](https://drive.google.com/file/d/1A2Ev_o78y5NDEnqZg-5hJuE8Jmlc6st1/view)
+- Read my latest [Website](https://mukesh07-ai.github.io/codedarshan_main/)
+- Follow me on [Social Media](#)
+- Download my latest [Resume](#)
 </p>
 
 
