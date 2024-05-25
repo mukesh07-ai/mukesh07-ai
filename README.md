@@ -24,7 +24,7 @@
 
 
  
-<p align="justify">I am a Full-stack Developer and FSD intern at IBM. I have strong technical skills in working with HTML, CSS, and JavaScript and I am an Advance Diploma (Vocational) in IT, Networking and Cloud Computing student of the 2022-24 batch from National Skill Training Institute Patna. Under the guideance of DGT&IBM
+<p align="justify">I am a Full-stack Developer and FSD with Java intern at IBM. I have strong technical skills in working with HTML, CSS, and JavaScript and I am an Advance Diploma (Vocational) in IT, Networking and Cloud Computing student of the 2022-24 batch from National Skill Training Institute Patna. Under the guideance of DGT&IBM
 
 <br>
 <p>
