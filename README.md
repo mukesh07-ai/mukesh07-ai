@@ -14,14 +14,14 @@
 
 
  
-<p align="justify">Harsh Kumar is a Front-end Developer and an Analyst at GeeksForGeeks. I have strong technical skills in working with React JS and Javascript and I am an ECE undergraduate student of the 2019-23 batch from Govt. Purnea College Of Engineering is affiliated with Bihar Engineering University Patna. 
+<p align="justify">I am a Full-stack Developer and FSD intern at IBM. I have strong technical skills in working with HTML, CSS, and JavaScript and I am an Advance Diploma (Vocational) in IT, Networking and Cloud Computing student of the 2022-24 batch from National Skill Training Institute Patna. Under the guideance of DGT&IBM
 
 <br>
 <p>
-I have created several projects on web development. I secured 3rd Position in the National Science Day Project Exhibition organised by Bihar Council Of Science & Technology.
+I have created several projects on web development. I secured 55th Position in All India Top 70 for OJT.
 
 
-Please feel free to get in touch with me via [Email](mailto:info@coderharsh.in) or visit my [Personal Website](https://about.coderharsh.in)</p>
+Please feel free to get in touch with me via [Email](mailto:mk5297523@gmail.com).</p>
 
 
 <!--
